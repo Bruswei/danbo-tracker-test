@@ -1,6 +1,6 @@
-# Internal Projects
+# Tietoevry Innovation Hub
 
-Welcome to the Internal Projects page. Here you'll find a list of all the internal projects, open-source projects, and talks we have.
+Here you'll find a list of all the internal projects, open-source projects, and talks we have.
 
 ## Projects
 
