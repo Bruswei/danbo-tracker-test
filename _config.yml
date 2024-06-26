@@ -1,0 +1,12 @@
+title: Tietoevry Internal Hub
+description: This is the hub of all internal projects, talks and prototyping
+theme: jekyll-theme-leap-day
+
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - OSS/test_open_source_library.md
+  - Projects/test_example_project_1.md
+
+github_username: https://github.com/Tietoevry-Create
